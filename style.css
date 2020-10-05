@@ -1,0 +1,39 @@
+#main{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgb(167, 167, 167);
+}
+#title{
+    font-size: 75px;
+    margin: 10px;
+}
+h2{
+    border: 5px solid;
+    border-radius: 20px;
+}
+#img-div{
+    background-color: rgb(211, 211, 211) ;
+    padding:10px;
+    margin: 10px;
+    border-radius: 20px ;
+}
+#image{
+    border-radius: 10px;
+    width:30% ;
+    height: auto;
+}
+p{
+    font-size: 18px;
+}
+#img-caption{
+    font-size: larger;
+}
+#end{
+    font-size: 25px;
+    font-weight: bold;
+}
+#tribute-info{
+    margin: 2% 5% 0 5%;
+}
